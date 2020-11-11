@@ -1,6 +1,23 @@
-belajar menggunakan make file
+# belajar menggunakan make file project golang:
 
-1. Simple make file
-2. Cross compile binaries
-3. Multiple Target in One Command
+## objective :
+    mencompile, menjalan kan test, dan merunning program
+
+## Cara menjalankan :
+1. Compile
+   ```
+   make build
+   ```
+2. Test
+   ```
+   make test
+   ```
+3. Run
+   ```
+   make run
+   ```
+4. Run All
+   ```
+   make all
+   ```
    
